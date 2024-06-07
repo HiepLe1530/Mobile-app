@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mobileApp</string>
+    <string name="cart">Giỏ hàng của bạn</string>
+    <string name="categories">Tất cả danh mục</string>
+    <string name="txtLogin">Đăng nhập</string>
+    <string name="txtSignup">Đăng ký</string>
+    <string name="txtforgotPass">Quên mật khẩu</string>
+    <string name="invalidAccount">Bạn chưa có tài khoản?</string>
+    <string name="setpwdSuccess">Thay đổi mật khẩu</string>
+    <string name="home">Trang chủ</string>
+    <string name="category">Danh mục</string>
+    <string name="order">Đơn hàng</string>
+    <string name="user">Tài khoản</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
